@@ -10,7 +10,7 @@
 #include "uart.h"
 // This is a rudimentary calculator that does operations on numbers of max value = 255
 //Integer division only
-//Limited values
+//Limited valid values
 
 sint16 calculate_result(uint8 lhs, uint8 op, uint8 rhs){
 	sint16 result;
