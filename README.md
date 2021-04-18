@@ -1,1 +1,1 @@
-# embedded
+# AVR Embedded Projects
